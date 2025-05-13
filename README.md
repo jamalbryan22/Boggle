@@ -1,4 +1,4 @@
- #Boggle Java Application
+ # Boggle Java Application
 
 This is a Java-based implementation of the classic Boggle game. The application allows users to generate a Boggle board and search for words. It is built with object-oriented principles and modularized into packages for clear separation of concerns.
 
